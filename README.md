@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Cchrisking
 - 👀 I’m interested in : Blockchain, smart cities, electronics, green energy, 3D design
 - 🌱 C/C++, embeded system, JAVA
-- 💞️ I’m looking to collaborate on : projects based on C++, game development, or embeded system.
+- 💞️ collaboration on : projects based on C++, game development, or embeded system.
 - 📫 How to reach me :christou2c@gmail.com
 
 <!---
