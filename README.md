@@ -1,13 +1,8 @@
-- 👋 Hi, I’m @Cchrisking
-- 👀 I’m interested in : Blockchain, smart cities, electronics, green energy, CAD industrial design
-- 🌱 C/C++, embeded system, JAVA
-- 💞️ collaboration on : projects based on C++, game development, or embeded system.
-
 <!---
 Cchrisking/Cchrisking is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# 👋 Hi there, I'm Chris here The eveil engineer!
+# 👋 Hi there, Chris here The eveil engineer!
   
 **Doer**, and **builder** who loves to explore and turn complex ideas into real-world solutions.
 
