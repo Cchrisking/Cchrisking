@@ -65,7 +65,7 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-> _“Code is like humor. When you have to explain it, it’s bad.”_ — Cory House  
+> _“For we cannot create as the gift was stripped from us long ago. As always we conitnue our attempts to create perfect machines.”_ — 
 
 > _Let's build something legendary._
 
