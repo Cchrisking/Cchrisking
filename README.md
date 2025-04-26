@@ -39,15 +39,15 @@ I'm a passionate **software engineer**, **tinkerer**, and **builder** who loves 
 **Languages:**  
 `C++ ` | `C` | `Java` | `JavaScript` |'Python'|`QML`
 '⭐⭐⭐⭐⭐'| '⭐⭐⭐⭐⭐'| '⭐⭐⭐⭐⭐'|'⭐⭐⭐'|'⭐⭐⭐'
-| C++    | C |
-| -------- | ------- |
-| ⭐⭐⭐⭐⭐  | $⭐⭐⭐⭐⭐    |
+| C++    | C | JAVA    | PYTHON | JAVASCRIPT|PHP|QML|
+| -------- | ------- |-------- | ------- |-------- |------- |-------- |
+| ⭐⭐⭐⭐⭐  | ⭐⭐⭐⭐⭐|⭐⭐⭐⭐⭐  | ⭐⭐⭐ | ⭐⭐⭐⭐|⭐⭐⭐⭐ | ⭐⭐⭐|
 
 **Tools & Frameworks:**  
-`Qt` | `Spring Boot` | `React` | `FastAPI` | `Docker` | `Git`
+|`Qt` | `Spring Boot` | `React` | `FastAPI` | `Docker` | `Git`|
 
 **DevOps & Infra:**  
-`GitHub Actions` | `NGINX` | `Linux` | `Makefile` | `Vagrant`
+|`GitHub Actions` | `NGINX` | `Linux` | `Makefile` | `Vagrant`|
 
 ---
 
