@@ -7,10 +7,9 @@
 Cchrisking/Cchrisking is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# 👋 Hi there, I'm Christou!
-
-Welcome to my corner of GitHub 🌍  
-I'm a passionate **software engineer**, **tinkerer**, and **builder** who loves turning complex ideas into real-world solutions.
+# 👋 Hi there, I'm Chris here The eveil engineer!
+  
+**Doer**, and **builder** who loves to explore and turn complex ideas into real-world solutions.
 
 ---
 
