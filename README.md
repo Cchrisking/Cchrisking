@@ -25,12 +25,11 @@ I'm a passionate **software engineer**, **tinkerer**, and **builder** who loves 
 
 ---
 
-## 🔭 Current Projects
+## ⚒️ Current Projects ⚒️
 
 - 🔌 Developing a next-gen **automated trading platform**  
 - 🧪 Researching **sodium-ion battery tech** & designing BMS **energy sotorage systems**
-- 🧰 Building lightweight **C++ physics simulations** with custom engines games ans simulations.  
-- 📡 Working on **IoT-based data collection** for smart agriculture & energy
+- ⚒️ Building lightweight **C++ physics simulations** with custom engines games ans simulations.  
 
 ---
 
