@@ -28,8 +28,8 @@ I'm a passionate **software engineer**, **tinkerer**, and **builder** who loves 
 ## 🔭 Current Projects
 
 - 🔌 Developing a next-gen **automated trading platform**  
-- 🧪 Researching **sodium-ion battery tech** & designing **energy systems**
-- 🧰 Building lightweight **C++ physics simulations** with custom engines  
+- 🧪 Researching **sodium-ion battery tech** & designing BMS **energy sotorage systems**
+- 🧰 Building lightweight **C++ physics simulations** with custom engines games ans simulations.  
 - 📡 Working on **IoT-based data collection** for smart agriculture & energy
 
 ---
@@ -43,16 +43,18 @@ I'm a passionate **software engineer**, **tinkerer**, and **builder** who loves 
 
 **Tools & Frameworks:**  
 |`Qt` | `Spring Boot` | `React` | `FastAPI` | `Docker` | `Git`|
+---------------------------------------------------------------
+
 
 **DevOps & Infra:**  
 |`GitHub Actions` | `NGINX` | `Linux` | `Makefile` | `Vagrant`|
-
+|--------| -------- | -------- | -------- | -------- |
 ---
 
 ## 🌱 Always Learning
 
-- 📘 Clean Architecture & Design Patterns  
-- 🌐 Decentralized Applications (dApps)  
+- 📘 Clean Architecture & System Design  
+- 🌐 Decentralized Systems  
 - ⚙️ Embedded systems & low-level optimization
 
 ---
