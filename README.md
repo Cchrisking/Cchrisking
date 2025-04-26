@@ -39,7 +39,9 @@ I'm a passionate **software engineer**, **tinkerer**, and **builder** who loves 
 **Languages:**  
 `C++ ` | `C` | `Java` | `JavaScript` |'Python'|`QML`
 '⭐⭐⭐⭐⭐'| '⭐⭐⭐⭐⭐'| '⭐⭐⭐⭐⭐'|'⭐⭐⭐'|'⭐⭐⭐'
-
+| C++    | C |
+| -------- | ------- |
+| ⭐⭐⭐⭐⭐  | $⭐⭐⭐⭐⭐    |
 **Tools & Frameworks:**  
 `Qt` | `Spring Boot` | `React` | `FastAPI` | `Docker` | `Git`
 
