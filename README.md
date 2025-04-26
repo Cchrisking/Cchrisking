@@ -20,8 +20,8 @@ I'm a passionate **software engineer**, **tinkerer**, and **builder** who loves 
 - 💻 Code in: 
           **C++**, **Python**, **Java**, and more
 - 🔧 Design scalable **backend architectures** & efficient **APIs**
-- 🌐 Develop modern **web & mobile apps**
-- ⚡ Explore **blockchain**, **fintech**, and **embedded systems**
+- 🌐 Develop high performance effiecient ** Systems**
+- ⚡ Explore **blockchain**, **fintech**, and **embedded systems** **Energy Storare**
 
 ---
 
@@ -51,7 +51,7 @@ I'm a passionate **software engineer**, **tinkerer**, and **builder** who loves 
 |--------| -------- | -------- | -------- | -------- |
 ---
 
-## 🌱 Always Learning
+## 💡 Always Learning in quest of ultimate wisdom
 
 - 📘 Clean Architecture & System Design  
 - 🌐 Decentralized Systems  
@@ -68,5 +68,6 @@ I'm a passionate **software engineer**, **tinkerer**, and **builder** who loves 
 ---
 
 > _“Code is like humor. When you have to explain it, it’s bad.”_ — Cory House  
+
 > _Let's build something legendary._
 
