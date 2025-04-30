@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 ## 🚀 What I Do
 
-- 🧠 Build smart systems (AI, IoT, and Automation)
+- 🧠 Build smart systems (AI, ML, and Automation)
 - 💻 Code in: 
           **C++**, **Python**, **Java**, and more
 - 🔧 Design scalable **backend architectures** & efficient **APIs**
