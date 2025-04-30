@@ -30,17 +30,17 @@ You can click the Preview link to take a look at your changes.
 ## 🛠️ Tech Stack
 
 **Languages:**  
-| C++    | C | JAVA    | PYTHON | JAVASCRIPT|PHP|QML|
-| -------- | ------- |-------- | ------- |-------- |------- |-------- |
-| ⭐⭐⭐⭐⭐  | ⭐⭐⭐⭐⭐|⭐⭐⭐⭐⭐  | ⭐⭐⭐ | ⭐⭐⭐⭐|⭐⭐⭐⭐ | ⭐⭐⭐|
+| C++    | C | JAVA    | PYTHON | JAVASCRIPT|PHP|QML|QML| 
+| -------- | ------- |-------- | ------- |-------- |------- |-------- |-------- |
+| ⭐⭐⭐⭐⭐  | ⭐⭐⭐⭐⭐|⭐⭐⭐⭐⭐  | ⭐⭐⭐ | ⭐⭐⭐⭐|⭐⭐⭐⭐ | ⭐⭐⭐|⭐⭐⭐|
 
 **Tools & Frameworks:**  
-|`Qt` | `Spring Boot` | `React` | `FastAPI` | `Docker` | `Git`|
+|Qt | Spring Boot | React |FastAPI | Docker | Git |
 |--------| -------- | -------- | -------- | -------- | --------|
 
 
 **DevOps & Infra:**  
-|`GitHub Actions` | `NGINX` | `Linux` | `Makefile` | `Vagrant`|
+|GitHub Actions | NGINX | Linux | Makefile | Vagrant|
 |--------| -------- | -------- | -------- | -------- |
 ---
 
