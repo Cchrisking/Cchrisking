@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🧠 Build smart systems (AI, ML, and Automation)
 - 💻 Code in: 
-          **C++**,**C++**, **Java**,**Python** and more
+          **C**,**C++**, **Java**,**Python** and more
 - 🔧 Design scalable **backend architectures** & efficient **APIs**
 - 🌐 Develop high performance effiecient **Systems**
 - ⚡ Explore **blockchain**, **fintech**, and **embedded systems** **Energy Storare**
