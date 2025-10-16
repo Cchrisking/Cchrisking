@@ -44,7 +44,7 @@ You can click the Preview link to take a look at your changes.
 |--------| -------- | -------- | -------- | -------- |
 ---
 
-## 💡 Always Learning in quest of ultimate wisdom
+## 💡 Active in
 
 - 📘 Clean Architecture & System Design  
 - 🌐 Decentralized Systems  
