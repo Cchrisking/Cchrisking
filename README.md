@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 - 💻 Code in: 
           **C**,**C++**, **Java**,**Python** and more
 - 🔧 Design scalable **backend architectures** & efficient **APIs**
-- 🌐 Develop high performance effiecient **Systems**
+- 🌐 Develop high performance efficient **Systems**
 - ⚡ Explore **blockchain**, **fintech**, and **embedded systems** **Energy Storare**
 
 ---
