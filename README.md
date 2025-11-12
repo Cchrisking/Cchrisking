@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🔌 Developing a next-gen **automated trading platform**  
 - 🧪 Researching **sodium-ion battery tech** & designing BMS **energy sotorage systems**
-- ⚒️ Building lightweight **C++ physics simulations** with custom engines games ans simulations.  
+- ⚒️ Building lightweight **C++ physics simulations** with custom engines games and simulations.  
 
 ---
 
